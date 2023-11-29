@@ -6,8 +6,8 @@ readme = "README.md"
 license = "AGPL-3.0-only"
 repository = "https://github.com/SubconsciousCompute/naughtyfy.git"
 documentation = "https://docs.rs/naughtyfy"
-authors = ["Tanveer Raza <tanveerraza789@gmail.com>"]
-version = "0.2.0"
+authors = ["atamakahere <git@atamaka.maskmy.id>"]
+version = "0.2.1"
 edition = "2021"
 
 
@@ -16,4 +16,4 @@ name = "naughtyfy"
 path = "src/lib.rs"
 
 [dependencies]
-libc = "0.2.139"
+libc = "0.2.150"
